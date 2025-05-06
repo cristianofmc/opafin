@@ -24,7 +24,8 @@ source venv/bin/activate
 Install the required Python packages:
 `pip install -r requirements.txt`
 
-python3 main.py --csv "/path/to/your/file.csv"
+## Run
+`python3 main.py --csv "/path/to/your/file.csv"`
 
 ### Notes
 - The CSV file should be similar to template.csv with the same columns.
