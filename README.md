@@ -31,6 +31,12 @@ Install the required Python packages:
 - The CSV file should be similar to template.csv with the same columns.
 - Dates should be parsable by pandas.to_datetime.
 
+## Test
+Run `pytest`
+
+The warning `setDaemon() is deprecated, set the daemon attribute instead` is related to kaleido, one of the dependencies, it can be ignored.
+
+
 ## License
 
 Distributed under the terms of the [LICENSE.txt](./LICENSE.txt) file.
