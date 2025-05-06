@@ -1,6 +1,6 @@
 # Opafin
 
-A simple forecasting tool to predict credit card expenses based on historical data in CSV format.
+A simple tool to gererate charts of credit card expenses based on historical data in CSV format.
 
 ## Requirements
 
