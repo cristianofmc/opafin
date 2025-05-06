@@ -1,0 +1,21 @@
+# Directory for generated charts
+charts/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Temporary and backup files
+*.log
+*.swp
+*.bak
+*.tmp
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
